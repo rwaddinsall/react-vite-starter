@@ -28,22 +28,19 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine. This p
 ### Installation
 
 1. Clone the repository:
-   ````
-   git clone https://github.com/rwaddinsall/react-vite-starter.git ```
-   ````
-
-Navigate to the project directory:
+   ```
+   git clone https://github.com/rwaddinsall/react-vite-starter.git
+   ```
+   Navigate to the project directory:
 
 ```
 cd react-vite-starter
-
 ```
 
 Install dependencies:
 
 ```
   npm install
-
 ```
 
 Running the Project
@@ -52,7 +49,6 @@ To start the development server:
 
 ```
 npm run dev
-
 ```
 
 This command runs the app in development mode. Open http://localhost:3000 to view it in your browser. The page will reload when you make changes.
